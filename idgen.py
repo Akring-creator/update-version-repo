@@ -18,7 +18,7 @@ def generate_id():
 
     # Hewan
     hewan = [
-        "kucing","anjing","domba","singa","gajah","harimau","elang",
+        "kucing","domba","singa","gajah","harimau","elang",
         "ular","kuda","ayam","bebek","kambing","ikan","hiu","paus",
         "burung","merpati","cicak","katak","kelinci"
     ]
