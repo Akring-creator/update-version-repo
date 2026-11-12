@@ -1,7 +1,7 @@
 {
   "version": "6.14.2",
   "version_id" :"543a5c70-53ca-49cb-a411-95d4f91df1be",
-  "min_required_version" : 15,
+  "min_required_version" : 44,
   "url": "https://github.com/Akring-creator/update-version-repo/releases/latest/download/Penilaian_Tanah.exe",
   "changelog": "Pembaruan dan Penyesuaian Fitur"
 }
